@@ -3,16 +3,16 @@ we use CNN-LSTM-Attention extractors + NN meta-regressor along an advanced ensem
 
 note this project uses ai to increase productivity and efficiency in projects 
 
-<img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />
+<img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />.
 
 
 Analogy for my Recruiters :) 
 
 Imagine you bet on a race.
 
-Buy and Hold (🍊 line)  : You picked a horse at the start and just hope it wins. If the horse trips and falls (market goes down), you lose.
+Buy and Hold (orange line)  : You picked a horse at the start and just hope it wins. If the horse trips and falls (market goes down), you lose.
 
-Ensemble Strategy (🍇 blue line) : You're predicting if the horse will gain or lose ground on each lap.
+Ensemble Strategy (blue line) : You're predicting if the horse will gain or lose ground on each lap.
 
 If you predict the horse will fall behind on the next lap, and it does, you bet against it (go short) and you win money, even though the horse itself is doing badly.
 
