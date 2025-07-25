@@ -3,6 +3,7 @@ we use CNN-LSTM-Attention extractors + NN meta-regressor along an advanced ensem
 
 note this project uses ai to increase productivity and efficiency in projects 
 
+Buy and Hold-> no stocks hold their values till 2009-2023 
 <img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />.
 
 
@@ -16,7 +17,7 @@ Ensemble Strategy (blue line) : You're predicting if the horse will gain or lose
 
 If you predict the horse will fall behind on the next lap, and it does, you bet against it (go short) and you win money, even though the horse itself is doing badly.
 
-The horse's performance (Buy and Hold) is bad, but your betting strategy based on predictions (Ensemble) is good because you correctly bet against it.
+The horse's performance (Buy and Hold) is bad, but our betting strategy based on predictions (Ensemble) is good because we correctly bet against it.
 
 This is precisely why you see the blue line rising while the orange line is falling in many parts of your graph – the ensemble strategy is successfully making money from negative market movements by going short.
 
