@@ -1,4 +1,4 @@
-Time series prediction is the process of using historical data to forecast future values. Unlike regular machine learning where data points are independent, time series data is a sequence of observations recorded over time, meaning each data point is dependent on the previous ones. The goal is to identify patterns and trends in the past to make educated predictions about the future.
+Hi littile bit of a Context here: Time series prediction is the process of using historical data to forecast future values. Unlike regular machine learning where data points are independent, time series data is a sequence of observations recorded over time, meaning each data point is dependent on the previous ones. The goal is to identify patterns and trends in the past to make educated predictions about the future.
 if you are familiar with trading, time series prediction is the underlying statistical and machine learning method that can be applied to make the forecasts needed for a swing trading strategy
 
 
