@@ -1,3 +1,7 @@
+Time series prediction is the process of using historical data to forecast future values. Unlike regular machine learning where data points are independent, time series data is a sequence of observations recorded over time, meaning each data point is dependent on the previous ones. The goal is to identify patterns and trends in the past to make educated predictions about the future.
+if you are familiar with trading, time series prediction is the underlying statistical and machine learning method that can be applied to make the forecasts needed for a swing trading strategy
+
+
 # Financial-ai
 we use CNN-LSTM-Attention extractors + NN meta-regressor along an advanced ensemble technique
 
@@ -7,7 +11,7 @@ Buy and Hold-> no stocks hold their values till 2009-2023
 <img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />.
 
 
-Analogy for my Recruiters :) 
+Analogy for Simplicity :
 
 Imagine you bet on a race.
 
@@ -19,7 +23,7 @@ If you predict the horse will fall behind on the next lap, and it does, you bet 
 
 The horse's performance (Buy and Hold) is bad, but our betting strategy based on predictions (Ensemble) is good because we correctly bet against it.
 
-This is precisely why you see the blue line rising while the orange line is falling in many parts of your graph – the ensemble strategy is successfully making money from negative market movements by going short.
+This is precisely why we see the blue line rising while the orange line is falling in many parts of the graph – the ensemble strategy is successfully at making money from negative market movements by going short. note- no stocks hold their values till 2009-2023 
 
 Scenario 2: When Buy and Hold Gets Better (Orange Goes Up), Prediction (Ensemble) Goes Down
 This can also happen and is a sign of a prediction error by the ensemble model.
