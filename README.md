@@ -10,6 +10,7 @@ note this project uses ai to increase productivity and efficiency in projects
 Buy and Hold-> no stocks hold their values till 2009-2023 
 <img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />.
 
+The blue line, labeled "Ensemble Strategy," shows a significant profit. Its cumulative return is consistently positive, often reaching very high levels, particularly with those large upward spikes.
 
 Analogy for Simplicity :
 
