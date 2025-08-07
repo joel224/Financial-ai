@@ -11,6 +11,8 @@ Buy and Hold-> no stocks hold their values till 2009-2023
 <img width="1021" height="547" alt="image" src="https://github.com/user-attachments/assets/2ebe123f-8653-41b7-a14b-1b92ba9bd1f8" />.
 
 The blue line, labeled "Ensemble Strategy," shows a significant profit. Its cumulative return is consistently positive, often reaching very high levels, particularly with those large upward spikes.
+It's a visual representation of two opposite strategies. When one line is losing money from a downturn, the other is designed to be making money from it. our buy-and-hold position would not make money from a market downturn because it is a passive strategy that is not built to go short.
+
 
 Analogy for Simplicity :
 
